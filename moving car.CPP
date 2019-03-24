@@ -43,7 +43,7 @@ line(120+i,305,160+i,305);
 circle(110+i,370,17);
 circle(240+i,370,17);
 
-delay(10);
+delay(20);
 cleardevice();
 }
 
